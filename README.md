@@ -58,34 +58,6 @@ So the Land Registration system using blockchain is a distributed system that wi
 ## Some features of the application:-
 
 
-Landing Page                   |                   Buyer Registration
-:---------------------------------:        |      :------------------------------:
-<img src="Screenshots/landing.png" height="200">  | <img src="Screenshots/registration.png" height="200">
-
-Buyer Dashboard                   |                   Seller Dashboard
-:---------------------------------:        |      :------------------------------:
-<img src="Screenshots/buyer dashboard.png" height="200">     |<img src="Screenshots/seller dashboard2.png" height="200">
-
-Add Land(by Seller)            |                   View all Lands Details
-:---------------------------------:        |      :------------------------------:
-<img src="Screenshots/add land.png" height="200">     |<img src="Screenshots/Land Gallery.png" height="200">
-
-Help & FAQ Page                |                   Verify Buyer(by Land Inspector)
-:---------------------------------:        |      :------------------------------:
-<img src="Screenshots/help.png" height="200" >     |<img src="Screenshots/verify buyer.png" height="200"  >
-
-Approve Land Request(by Seller)               |             Payment by Buyer 
-:---------------------------------:        |      :------------------------------:
-<img src="Screenshots/approve request.png" height="200">     |<img src="Screenshots/payment.png" height="200">
-
-Verify Land Transaction(by Land Inspector)    |                   Owned Lands(Buyer)
-:---------------------------------:        |      :------------------------------:
-<img src="Screenshots/verify transaction.png" height="200">     |<img src="Screenshots/owned lands.png" height="200">
-
-View Profile(Before Verification)                  |             Edit Profile(After Verification)
-:---------------------------------:        |      :------------------------------:
-<img src="Screenshots/profile.png" height="200" width="100%">     |<img src="Screenshots/edit profile.png" height="200" width="80%">
-
 ### Make sure to star the repository if you find it helpful!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=vrii14.Land-Registration-with-Blockchain)
 <a href="https://github.com/vrii14/Land-Registration-with-Blockchain/stargazers"><img src="https://img.shields.io/github/stars/vrii14/Land-Registration-with-Blockchain?color=yellow" alt="Stars Badge"/></a>
